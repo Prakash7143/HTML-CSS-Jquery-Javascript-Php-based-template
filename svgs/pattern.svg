@@ -1,0 +1,48 @@
+
+<svg width="1440px" height="275px" viewBox="0 0 1440 275" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>pattern-fservice-dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0.00199298469%" x2="50%" y2="99.9462044%" id="linearGradient-1">
+            <stop stop-color="#08C7FB" offset="0%"></stop>
+            <stop stop-color="#08C7FB" stop-opacity="0" offset="99.998007%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="1440" height="275"></rect>
+        <linearGradient x1="38.1740947%" y1="50%" x2="100%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#08C7FB" offset="0%"></stop>
+            <stop stop-color="#08C7FB" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="38.1740947%" y1="50%" x2="77.3571412%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#08C7FB" offset="0%"></stop>
+            <stop stop-color="#08C7FB" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="38.1740947%" y1="50%" x2="78.5413345%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#08C7FB" offset="0%"></stop>
+            <stop stop-color="#08C7FB" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="pattern-fservice-dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(720.000000, 137.500000) rotate(-180.000000) translate(-720.000000, -137.500000) ">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="Mask" fill-opacity="0.1" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            <g id="Group-7" mask="url(#mask-3)" fill-opacity="0.15">
+                <g transform="translate(-154.000000, -500.251719)" id="Group">
+                    <g transform="translate(-0.000000, -0.000000)">
+                        <rect id="Rectangle-Copy" fill="url(#linearGradient-4)" transform="translate(374.000000, 446.896981) scale(1, -1) rotate(-45.000000) translate(-374.000000, -446.896981) " x="124" y="394.360704" width="500" height="105.072555"></rect>
+                        <polygon id="Rectangle-Copy-3" fill="url(#linearGradient-4)" transform="translate(213.750000, 466.223382) scale(1, -1) rotate(-45.000000) translate(-213.750000, -466.223382) " points="-36.7685963 415.269138 464.268596 415.269138 464.268596 517.177626 -36.7685963 517.177626"></polygon>
+                        <polygon id="Rectangle-Copy-2" fill="url(#linearGradient-4)" transform="translate(824.328742, 407.260724) scale(1, -1) rotate(-45.000000) translate(-824.328742, -407.260724) " points="328.686288 326.978513 1319.9712 326.978513 1319.9712 487.542935 328.686288 487.542935"></polygon>
+                        <polygon id="Rectangle-Copy-4" fill="url(#linearGradient-4)" transform="translate(480.439493, 422.358584) scale(1, -1) rotate(-45.000000) translate(-480.439493, -422.358584) " points="167.578274 398.658008 793.300712 398.658008 793.300712 446.059161 167.578274 446.059161"></polygon>
+                        <rect id="Rectangle-Copy" fill="url(#linearGradient-4)" transform="translate(1276.410949, 463.417033) scale(-1, -1) rotate(-45.000000) translate(-1276.410949, -463.417033) " x="1026.41095" y="429.440221" width="500" height="67.9536226"></rect>
+                        <polygon id="Rectangle-Copy-3" fill="url(#linearGradient-4)" transform="translate(1448.250000, 515.431148) scale(-1, -1) rotate(-45.000000) translate(-1448.250000, -515.431148) " points="1109.34306 464.476904 1787.15694 464.476904 1787.15694 566.385392 1109.34306 566.385392"></polygon>
+                        <polygon id="Rectangle-Copy-5" fill="url(#linearGradient-5)" transform="translate(350.930826, 480.511868) scale(-1, -1) rotate(-45.000000) translate(-350.930826, -480.511868) " points="30.7657832 387.021794 671.095869 387.021794 671.095869 574.001943 30.7657832 574.001943"></polygon>
+                        <polygon id="Rectangle-Copy-5" fill="url(#linearGradient-6)" transform="translate(1394.000000, 405.420973) scale(1, -1) rotate(-45.000000) translate(-1394.000000, -405.420973) " points="998.979465 311.930899 1789.02054 311.930899 1789.02054 498.911047 998.979465 498.911047"></polygon>
+                        <polygon id="Rectangle-Copy-4" fill="url(#linearGradient-4)" transform="translate(968.432819, 450.389931) scale(-1, -1) rotate(-45.000000) translate(-968.432819, -450.389931) " points="618.069521 335.510421 1318.79612 335.510421 1318.79612 565.26944 618.069521 565.26944"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
